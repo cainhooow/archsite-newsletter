@@ -1,5 +1,7 @@
 # 🔒 Cuidado! Pacotes maliciosos do NPM podem estar em seu projeto
 
+> Supply-Chain, NPM, Pacotes Maliciosos, Tecnologia, Segurança
+
 ![NPM ArchGTi - Pacotes maliciosos do NPM podem estar em seu projeto](./assets/npm-with-hacking.png)
 
 Fala arqueiros! Na newsletter de hoje:
